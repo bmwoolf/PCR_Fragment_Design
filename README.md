@@ -26,7 +26,7 @@ If the sequence is 2400 bp:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/bmwoolf/PCR_Fragment_Design
 cd PCR_Fragment_Design
 ```
 
